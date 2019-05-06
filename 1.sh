@@ -1,0 +1,2 @@
+ooll=qwe
+echo $ooll
